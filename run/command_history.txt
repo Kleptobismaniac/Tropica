@@ -1,0 +1,2 @@
+/give @a tropica:black_mangrove_log
+/give @a tropica:black_sand
